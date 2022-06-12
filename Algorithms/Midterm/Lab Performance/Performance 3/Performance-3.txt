@@ -1,0 +1,18 @@
+DEADLINE: 11:00 AM Today
+
+1. Problem Statement:
+--------------------
+Download "Lecture 06 (Greedy Approach_part-1).pptx" from AIUB student portal and go to slide number 23 (exercise-2).
+
+Submission instructions:
+------------------------
+
+Write a C/ C++/ Java program to solve the above-mentioned problem.
+
+Your solution should be in one file. Make use of functions for different sorting techniques to seperate implementations modularly. Rename the file with your AIUB student ID. For example, if your student ID is 11-18421-1, for a c++ file, the name of the file with extension should be 11-18421-1.cpp. Upload that file in the following path in the student portal:
+
+Courses & Results => Algorithms => Lab Perofrmance => Performance-2 => Upload
+
+This text file is also uploaded in MS TEAMS under the 'Files' tab as well as in the above path of your student portal. Download it and start working.
+
+If you have any question, text me directly in TEAMS. You are not allowed to use mic during a lab performance

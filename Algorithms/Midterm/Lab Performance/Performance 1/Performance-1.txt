@@ -1,0 +1,26 @@
+DEADLINE: 10:00 AM Today
+
+Problem Statement:
+------------------
+Take a string as input and using the Merge Sort algorithm sort the string in a descending order (character-wise).
+
+The input string must contain only small letter English alphabets as its characters. Any other input should be considered invalid.
+
+Write a C/ C++/ Java program to solve this problem.
+
+Example Valid Input:
+sfssdlhgosv
+
+Example Output:
+vssssolhgfd
+
+Submission instructions:
+------------------------
+
+Your solution should be in one file. Rename the file with your AIUB student ID. For example, if your student ID is 11-18421-1, for a c++ file, the name of the file with extension should be 11-18421-1.cpp. Upload that file in the following path in the student portal:
+
+Courses & Results => Algorithms => Lab Perofrmance => Performance-1 => Upload
+
+This text file is also uploaded in MS TEAMS under the 'Files' tab as well as in the above path of your student portal. Download it and start working.
+
+If you have any question, text me directly in TEAMS. You are not allowed to use mic during a lab performance
